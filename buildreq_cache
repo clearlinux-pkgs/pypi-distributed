@@ -1,9 +1,10 @@
-2021.12.0
+2022.1.0
 pypi(click)
 pypi(cloudpickle)
 pypi(dask)
 pypi(jinja2)
 pypi(msgpack)
+pypi(packaging)
 pypi(psutil)
 pypi(pyyaml)
 pypi(setuptools)
