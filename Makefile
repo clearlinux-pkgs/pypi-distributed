@@ -1,5 +1,5 @@
 PKG_NAME := pypi-distributed
-URL = https://files.pythonhosted.org/packages/b2/b4/cd1e06867bcadf169e581a0a6a84fdd09e00f76aa41f5331ccff7213d9c9/distributed-2022.7.0.tar.gz
+URL = https://files.pythonhosted.org/packages/57/f6/bb2532524de2bad548d5a0d731659389dc9fb3483b18715fa3c359c4111c/distributed-2022.7.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
